@@ -1,0 +1,7 @@
+
+*.pdf
+*.aux
+*.log
+/cv.out
+*.pdf
+*.gz
