@@ -2,6 +2,6 @@
 *.pdf
 *.aux
 *.log
-/cv.out
+*.out
 *.pdf
 *.gz
